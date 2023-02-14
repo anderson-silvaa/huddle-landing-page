@@ -7,5 +7,5 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Criar estrutura de pastas
 - [X] Criar e importar arquivos css
 - [X] Importar Bootstrap
-- [ ] Adicionar imagens 
+- [X] Adicionar imagens 
 - [X] Estrutura inicial HTML
