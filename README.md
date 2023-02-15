@@ -12,3 +12,4 @@ Hudle landing page com blocos de recursos alternados.
 - [ ] Criar estrutura da página por tópicos
 - [X] Criar navbar com logo e botão
 - [X] Adicionar brackground
+- [X] Adicionar contéudos da seção inicial
