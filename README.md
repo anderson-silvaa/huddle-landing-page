@@ -18,3 +18,4 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Aplicar as fontes em seus determinados lugares
 - [X] Criar root com as cores 
 - [X] Personalizar botão get started
+- [X] Personalizar botão try it free

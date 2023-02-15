@@ -11,6 +11,7 @@
     --very-pale-cyan: hsl(193, 100%, 96%);
     --very-dark-cyan: hsl(192, 100%, 9%);
     --grayish-blue: hsl(208, 11%, 55%);
+    --white: hsl(0,0%,100%);
 }
 
 .initial {
@@ -23,6 +24,13 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 700 !important;
     font-size: 0.7em !important;
+    margin-right: 2em;
+    border-radius: 1em !important;
+    padding: 0.5em 2em 0.5em 2em !important;
+    background-color: var(--white) !important;
+    color: var(--very-dark-cyan) !important;
+    font-weight: 700 !important;
+    box-shadow: var(--grayish-blue) !important;
 }
 
 .title-first-section {
