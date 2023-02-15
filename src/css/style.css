@@ -9,3 +9,25 @@
     background-size: cover;
     height: 100vh;
 }
+
+.btn-try-free {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700 !important;
+    font-size: 0.7em !important;
+}
+
+.title-first-section {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.6em;
+}
+
+.paragraf-first-section {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.btn-getstarted {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700 !important;
+    font-size: 0.9em !important;
+}
