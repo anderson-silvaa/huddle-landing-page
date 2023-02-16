@@ -59,7 +59,12 @@
     box-shadow: 1px 1px 1px var(--shadow);
 }
 
-
+/* Ínicio da media query */
+@media screen and (min-width: 375px) {
+    .initial {
+        height: 150vh;
+    }
+}
 /* Tratamento da primeira imagem na primeira seção */
 
 @media screen and (min-width: 800px) {
