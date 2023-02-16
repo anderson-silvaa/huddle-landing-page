@@ -18,6 +18,7 @@
     background-image: url(../images/bg-hero-mobile.svg);
     background-size: cover;
     height: 100vh;
+    background-color: var(--very-pale-cyan);
 }
 
 .btn-try-free {
