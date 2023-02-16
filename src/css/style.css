@@ -60,7 +60,8 @@
 
 @media screen and (min-width: 800px) {
     #img-first {
-        width: 800px !important;
+        width: 100vw !important;
         margin-right: 3em;
+        height: 62vh !important;
     }
 }
