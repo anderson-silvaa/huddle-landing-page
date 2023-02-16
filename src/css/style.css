@@ -11,7 +11,7 @@
     --very-pale-cyan: hsl(193, 100%, 96%);
     --very-dark-cyan: hsl(192, 100%, 9%);
     --grayish-blue: hsl(208, 11%, 55%);
-    --white: hsl(0,0%,100%);
+    --white: hsl(0, 0%, 100%);
 }
 
 .initial {
@@ -53,4 +53,14 @@
     margin-left: -1em;
     background-color: var(--pink) !important;
     border-color: var(--pink) !important;
+}
+
+
+/* Tratamento da primeira imagem na primeira seção */
+
+@media screen and (min-width: 800px) {
+    #img-first {
+        width: 800px !important;
+        margin-right: 3em;
+    }
 }
