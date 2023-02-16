@@ -56,6 +56,7 @@
     margin-left: -1em;
     background-color: var(--pink) !important;
     border-color: var(--pink) !important;
+    box-shadow: 1px 1px 1px var(--shadow);
 }
 
 
