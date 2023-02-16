@@ -24,7 +24,7 @@
     font-family: 'Open Sans', sans-serif;
     font-weight: 700 !important;
     font-size: 0.7em !important;
-    margin-right: 2em;
+    /* margin-right: 2em; */
     border-radius: 1em !important;
     padding: 0.5em 2em 0.5em 2em !important;
     background-color: var(--white) !important;
