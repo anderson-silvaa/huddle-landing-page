@@ -20,5 +20,5 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Personalizar botão get started
 - [X] Personalizar botão try it free
 - [ ] Criar estrutura da segunda seção
-- [ ] Adicionar background color da seção 2
+- [X] Adicionar box-shadow a box1 da seção 2
 - [X] Criar estrutura inicial da caixa 1 da segunda seção 

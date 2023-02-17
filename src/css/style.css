@@ -67,10 +67,24 @@
     border-radius: 1em;
 }
 
+.second {
+    padding: 2em;
+}
+.box-second-section-1 {
+    box-shadow:  0px 3px 3px 3px rgb(220, 214, 214);
+    padding: 1em;
+}
+
 /* Ínicio da media query */
-@media screen and (max-width: 579px) {
+@media screen and (min-width: 375px) {
     .initial {
-        height: 150vh;
+        height: 170vh;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .initial {
+        height: 80vh;
     }
 }
 /* Tratamento da primeira imagem na primeira seção */
