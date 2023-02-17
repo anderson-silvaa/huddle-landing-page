@@ -59,6 +59,14 @@
     box-shadow: 1px 1px 1px var(--shadow);
 }
 
+.box-second-section-1 {
+    background-color: white;
+    padding: 2em;
+    margin-top: 5em;
+    height: 100vh;
+    border-radius: 1em;
+}
+
 /* Ínicio da media query */
 @media screen and (max-width: 579px) {
     .initial {
