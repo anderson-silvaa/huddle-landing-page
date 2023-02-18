@@ -91,6 +91,38 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+.third {
+    padding: 2em;
+}
+
+.box-second-section-2 {
+    box-shadow:  0px 3px 3px 3px rgb(220, 214, 214);
+    padding: 1em;
+    background-color: white;
+    padding: 2em;
+    height: 70vh;
+    border-radius: 1em;
+}
+
+.img-third-section {
+    height: 35vh;
+    width: 65vw;
+    padding: 0.5em;
+}
+
+.title-box2-third-section {
+    margin-top: 3em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: var(--very-dark-cyan);
+    margin-bottom: 1em;
+}
+
+.description-box2-third-section {
+    color: var(--grayish-blue);
+    font-family: 'Open Sans', sans-serif;
+}
+
 /* Ínicio da media query */
 @media screen and (min-width: 375px) {
     .initial {
