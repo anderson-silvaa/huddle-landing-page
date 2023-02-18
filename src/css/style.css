@@ -94,7 +94,7 @@
 /* Ínicio da media query */
 @media screen and (min-width: 375px) {
     .initial {
-        height: 170vh;
+        height: 115vh;
     }
 }
 
