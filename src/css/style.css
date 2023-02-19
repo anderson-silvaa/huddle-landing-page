@@ -220,9 +220,26 @@ footer {
     }
 }
 
+@media screen and (max-width: 375px) {
+    .last-section {
+        position: absolute;
+    }
+}
+
 @media screen and (min-width: 1440px) {
     .initial {
         height: 80vh;
+    }
+    
+    .content-last-section {
+        position: relative;
+        margin-left: 38em;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .logo-branca {
+        width: 10vw;
     }
 }
 /* Tratamento da primeira imagem na primeira seção */
@@ -232,5 +249,17 @@ footer {
         width: 100vw !important;
         margin-right: 3em;
         height: 62vh !important;
+    }
+
+    .img-second-section {
+        width: 40vw;
+    }
+
+    .img-third-section {
+        width: 40vw;
+    }
+
+    .img-fourth-section {
+        width: 40vw;
     }
 }
