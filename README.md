@@ -47,4 +47,5 @@ Landing page responsiva dividida em seções. Cada seção contém uma caixa que
 - CSS
 - BOOTSTRAP
 
-
+## Deploy 
+https://huddle-landing-page-sage-five.vercel.app/
