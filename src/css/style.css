@@ -172,6 +172,20 @@
     padding: 2em;
     height: 25vh;
     border-radius: 1em;
+    position: relative;
+}
+
+footer {
+    background-color: var(--very-dark-cyan);
+}
+
+.content-footer {
+    height: 80vh;
+    margin-top: -6em;
+}
+
+.logo-branca {
+    margin-top: 10em;
 }
 
 /* Ínicio da media query */
