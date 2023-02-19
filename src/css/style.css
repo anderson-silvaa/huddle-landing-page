@@ -157,6 +157,7 @@
 
 .last-section {
     padding: 2em;
+    position: absolute;
 }
 
 .title-last-section {
@@ -166,26 +167,50 @@
     color: var(--very-dark-cyan);
 }
 .content-last-section {
-    box-shadow: 0px 3px 3px 3px rgb(220, 214, 214);
+    box-shadow: 1px 1px 3px rgb(220 214 214);
     padding: 1em;
     background-color: white;
     padding: 2em;
     height: 25vh;
     border-radius: 1em;
-    position: relative;
 }
 
 footer {
     background-color: var(--very-dark-cyan);
+    padding: 2em;
+    margin-top: 12em;
 }
 
 .content-footer {
-    height: 80vh;
+    height: 90vh;
     margin-top: -6em;
+    gap: 2em;
 }
 
 .logo-branca {
     margin-top: 10em;
+    width: 40vw;
+}
+
+.img-location {
+    margin-right: 1em;
+    margin-top: 0.3em;
+}
+
+.descricao-location {
+    color: white;
+}
+
+.img-phone {
+    margin-right: 1em;
+}
+
+.img-email {
+    margin-right: 0.3em;
+}
+
+.spans {
+    color: white;
 }
 
 /* Ínicio da media query */
