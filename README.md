@@ -32,5 +32,5 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Criar estrutura da terceira seção
 - [X] Adicionar box-shadow a box4 da seção 4
 - [X] Criar estrutura inicial da caixa 1 da quarta seção 
-- [ ] Alinhar elementos da box 2 da seção 4
-- [ ] Estilizar elementos da box 2 da seção 4
+- [X] Alinhar elementos da box 2 da seção 4
+- [X] Estilizar elementos da box 2 da seção 4
