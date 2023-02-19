@@ -36,7 +36,7 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Estilizar elementos da box 2 da seção 4
 - [X] Criar estrutura com conteúdo da última seção
 - [X] Criar caixa para botão get started e descrição
-- [ ] Estilizar conteúdo da última seção
+- [X] Estilizar conteúdo da última seção
 - [ ] Colocar cor de background do footer
 - [ ] Posicionar a caixa entre a seção 4 e o footer
 - [ ] Adicionar elementos ao footer

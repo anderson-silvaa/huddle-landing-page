@@ -161,6 +161,9 @@
 
 .title-last-section {
     margin-bottom: 2em;
+    font-family: 'Opens Sans', sans-serif;
+    font-weight: 700;
+    color: var(--very-dark-cyan);
 }
 .content-last-section {
     box-shadow: 0px 3px 3px 3px rgb(220, 214, 214);
