@@ -1,5 +1,5 @@
 # huddle-landing-page
-Landing page responsiva dividida em seções. Cada seção contém uma caixa que recebe seus respectivos elemento(Imagem de referência e texto de descrição).
+Landing page responsiva, dividida em seções. Cada seção contém uma caixa que recebe seus respectivos elementos(Imagem de referência e texto de descrição).
 
 ### Tarefas 
 
