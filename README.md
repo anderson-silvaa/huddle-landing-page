@@ -5,7 +5,7 @@ Landing page responsiva, dividida em seções. Cada seção contém uma caixa qu
 ## Preview 
 
 <p align="center">
-	<img width="700" height="400" src="src/images/print0-post.png">
+	<img width="700" height="400" src="src/images/huddleladingpage1.png">
 </p>
 <p align="center">
 	<img width="700" height="400" src="src/images/print1-post.png">
