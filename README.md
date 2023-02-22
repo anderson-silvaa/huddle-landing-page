@@ -7,14 +7,21 @@ Landing page responsiva, dividida em seções. Cada seção contém uma caixa qu
 <p align="center">
 	<img width="700" height="400" src="src/images/huddleladingpage1.png">
 </p>
+
 <p align="center">
-	<img width="700" height="400" src="src/images/print1-post.png">
+	<img width="700" height="400" src="src/images/huddleladingpage3.png">
 </p>
 <p align="center">
-	<img width="700" height="400" src="src/images/print2-post.png">
+	<img width="700" height="400" src="src/images/huddleladingpage4.png">
 </p>
 <p align="center">
-	<img width="700" height="400" src="src/images/print3-post.png">
+	<img width="375" height="800" src="src/images/huddleladingpage5.png">
+</p>
+<p align="center">
+	<img width="375" height="800" src="src/images/huddleladingpage6.png">
+</p>
+<p align="center">
+	<img width="375" height="800" src="src/images/huddleladingpage7.png">
 </p>
 
 ### Tarefas 
