@@ -1,5 +1,5 @@
 # huddle-landing-page
-Hudle landing page com blocos de recursos alternados.
+Landing page responsiva, dividida em seções. Cada seção contém uma caixa que recebe seus respectivos elementos(Imagem de referência e texto de descrição).
 
 ### Tarefas 
 
@@ -41,3 +41,11 @@ Hudle landing page com blocos de recursos alternados.
 - [X] Colocar cor de background do footer
 - [X] Posicionar a caixa entre a seção 4 e o footer
 - [X] Adicionar e estilzar elementos do footer
+
+## Tecnologias 
+- HTML
+- CSS
+- BOOTSTRAP
+
+## Deploy 
+https://huddle-landing-page-sage-five.vercel.app/
