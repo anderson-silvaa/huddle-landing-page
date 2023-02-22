@@ -1,6 +1,22 @@
 # huddle-landing-page
 Landing page responsiva, dividida em seções. Cada seção contém uma caixa que recebe seus respectivos elementos(Imagem de referência e texto de descrição).
 
+
+## Preview 
+
+<p align="center">
+	<img width="700" height="400" src="src/images/print0-post.png">
+</p>
+<p align="center">
+	<img width="700" height="400" src="src/images/print1-post.png">
+</p>
+<p align="center">
+	<img width="700" height="400" src="src/images/print2-post.png">
+</p>
+<p align="center">
+	<img width="700" height="400" src="src/images/print3-post.png">
+</p>
+
 ### Tarefas 
 
 - [X] Primeiro commit 
@@ -49,3 +65,6 @@ Landing page responsiva, dividida em seções. Cada seção contém uma caixa qu
 
 ## Deploy 
 https://huddle-landing-page-sage-five.vercel.app/
+
+# Autor 
+## Anderson Silva
